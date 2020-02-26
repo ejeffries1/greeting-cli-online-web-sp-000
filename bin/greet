@@ -2,7 +2,4 @@
 require_relative "../lib/greeting.rb"
 
 # code your CLI here!
-
-def gets
-Hi
-end
+"Hi! I'm HAL, what's your name?"
